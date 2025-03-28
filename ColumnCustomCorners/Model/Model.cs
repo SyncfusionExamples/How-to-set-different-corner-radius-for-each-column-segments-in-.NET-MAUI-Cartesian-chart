@@ -1,6 +1,6 @@
 using System;
 
-namespace ColumnCustomCorners;
+namespace ColumnCustomCorners.Model;
 
 public class Model
 {

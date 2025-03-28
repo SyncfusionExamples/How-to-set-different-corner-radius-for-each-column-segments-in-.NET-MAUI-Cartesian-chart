@@ -1,4 +1,4 @@
-# How-to-set-different-corner-radius-for-each-column-segments-in-.NET-MAUI-Cartesian-chart
+# How to set different corner radius for each column segments in .NET MAUI Cartesian chart
  This article shows how to set different corner radius for each column segments in .NET MAUI Cartesian chart.
 
  In [.NET MAUI Cartesian Charts](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.CartesianSegment.html), column segments typically have uniform corner radii, but there are scenarios where customizing the radius for each segment individually enhances visualization. By extending the [ColumnSeries](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.ColumnSeries.html?tabs=tabid-1%2Ctabid-8%2Ctabid-4%2Ctabid-28%2Ctabid-6) and [ColumnSegment](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.ColumnSegment.html) classes, you can dynamically apply different corner radii based on data values. 
