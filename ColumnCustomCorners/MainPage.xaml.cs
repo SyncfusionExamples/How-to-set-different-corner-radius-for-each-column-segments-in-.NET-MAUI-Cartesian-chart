@@ -1,5 +1,4 @@
-﻿using Syncfusion.Maui.Toolkit.Carousel;
-using Syncfusion.Maui.Toolkit.Charts;
+﻿using Syncfusion.Maui.Toolkit.Charts;
 
 namespace ColumnCustomCorners;
 
