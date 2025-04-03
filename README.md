@@ -13,4 +13,4 @@
 ## Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
-For step by step process, refer this [KB article](https://support.syncfusion.com/agent/kb/19754)
+For step by step process, refer this [KB article](https://support.syncfusion.com/kb/article/19754/how-to-set-different-corner-radius-for-each-column-segment-in-net-maui-cartesian-chart)
